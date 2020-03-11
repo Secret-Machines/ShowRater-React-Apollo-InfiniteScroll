@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "show": "Batman the Animated Series",
+    "number": "1",
+    "episode": "The Cat and the Claw (1)",
+    "rating": "A-"
+  },
+  {
+    "id": 2,
+    "show": "Batman the Animated Series",
+    "number": "2",
+    "episode": "On Leather Wings",
+    "rating": "A"
+  },
+  {
+    "id": 3,
+    "show": "Batman the Animated Series",
+    "number": "3",
+    "episode": "Heart of Ice",
+    "rating": "A"
+  },
+  {
+    "id": 4,
+    "show": "Batman the Animated Series",
+    "number": "4",
+    "episode": "Feat of Clay (1)",
+    "rating": "A+"
+  },
+  {
+    "id": 5,
+    "show": "Batman the Animated Series",
+    "number": "5",
+    "episode": "Feat of Clay (2)",
+    "rating": "A+"
+  },
+  {
+    "id": 6,
+    "show": "Batman the Animated Series",
+    "number": "6",
+    "episode": "It's Never Too Late",
+    "rating": "A+"
+  },
+  {
+    "id": 7,
+    "show": "Batman the Animated Series",
+    "number": "7",
+    "episode": "Joker's Favor",
+    "rating": "B+"
+  },
+  {
+    "id": 8,
+    "show": "Batman the Animated Series",
+    "number": "8",
+    "episode": "The Cat and the Claw (2)",
+    "rating": "A"
+  },
+  {
+    "id": 9,
+    "show": "Batman the Animated Series",
+    "number": "9",
+    "episode": "Pretty Poison",
+    "rating": "B+"
+  },
+  {
+    "id": 10,
+    "show": "Batman the Animated Series",
+    "number": "10",
+    "episode": "Nothing to Fear",
+    "rating": "A"
+  },
+  {
+    "id": 11,
+    "show": "Batman the Animated Series",
+    "number": "11",
+    "episode": "Be a Clown",
+    "rating": "A-"
+  },
+  {
+    "id": 12,
+    "show": "Batman the Animated Series",
+    "number": "12",
+    "episode": "Appointment in Crime Alley",
+    "rating": "A-"
+  }
+]
